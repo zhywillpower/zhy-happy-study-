@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 快乐学习
 
 You can use the [editor on GitHub](https://github.com/zhywillpower/zhy-happy-study-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
